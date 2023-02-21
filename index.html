@@ -1,5 +1,5 @@
 <script>
-  var pdfFilesDirectory = '/uploads/pdf/';
+  var pdfFilesDirectory = 'ringtones';
 
 // get auto-generated page 
 $.ajax({url: pdfFilesDirectory}).then(function(html) {
@@ -7,7 +7,7 @@ $.ajax({url: pdfFilesDirectory}).then(function(html) {
     var document = $(html);
 
     // find all links ending with .pdf 
-    document.find('a[href$=.pdf]').each(function() {
+    document.find('a[href$=".mp3"]').each(function() {
         var pdfName = $(this).text();
         var pdfUrl = $(this).attr('href');
 
