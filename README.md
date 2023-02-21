@@ -1,7 +1,7 @@
 
 # Ringtone Library
 
-This is a static ringtone library in the making.
+This is a static ringtone library in the making. Originally made for my other project [LTunes](https://ltunes.gq).
 
 
 
