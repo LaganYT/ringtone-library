@@ -21,11 +21,11 @@ Just make a fork add some new audio files and make a pull request.
 
 ## Demo
 
-[Live Demo](https://laganyt.github.io/ringtone-library)
+[Live Demo](https://ringtones.glitch.me/)
 
 ## Features
 
-- 100% runnable by github pages
+- 100% runnable by glitch static
 
 
 ## 🚀 About Me
